@@ -1,0 +1,14 @@
+#phone {
+	position: relative;
+	bottom: 30px;
+}
+
+#used-victoria {
+	position: relative;
+	bottom: 30px;
+	margin-bottom: 190px;
+}
+
+footer {
+	background: url("img/downloads-bg.jpg");
+}

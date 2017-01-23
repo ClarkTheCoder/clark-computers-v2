@@ -1,0 +1,77 @@
+MAIN INFO:
+IP Address:      198.54.115.178
+cPanel Username: clarckix
+Password:        fBv8DVFHJxJWM
+Port:            21
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+All INFORMATION
+
+
+Package Information
+Hosting Plan	Value 4G
+Main Domain	clarkcomputersvic.ca
+Start Date	20 Oct, 2016
+Server Hostname	server232.web-hosting.com
+IP Address	198.54.115.178
+
+
+ 
+cPanel Access
+cPanel URL	https://server232.web-hosting.com/cpanel or http://clarkcomputersvic.ca/cpanel
+cPanel Username	clarckix
+cPanel Password	fBv8DVFHJxJWM
+Note: In order to access cPanel for your domain before DNS propagation is complete, please use the following link: https://server232.web-hosting.com/cpanel
+
+
+Important: cPanel links above use SSL technology for a secure login to cPanel. We recommend using SSL wherever possible and change your default cPanel password after the first login for increased security.
+
+
+We have the cPanel questions section in our Knowledgebase designed to help you get started and answer frequently asked questions.
+
+Getting started with your Hosting Account
+
+1. Set up your domain name
+The domain you are using will need to be set up to point to your new hosting service. To do this, you will need to set up the nameservers for your domain to the values below. Note: It may take 24-48 hours for the DNS changes to propagate worldwide. If it’s crucial for you to see your website right away then it may make sense to edit hosts file on your local PC.
+
+ 
+Our Nameservers
+NS1	dns1.namecheaphosting.com
+NS2	dns2.namecheaphosting.com
+My domain was purchased through Namecheap. Do I need to do anything?
+You can easily update nameservers through our control panel. This KB Article will walk you through these steps.
+
+My domain was purchased through another registrar.
+If your domain name is registered with another company you will need to update your nameservers through their control panel or support system.
+
+2. Manage Your Web Hosting in cPanel
+cPanel is the control center of your web hosting account. Through cPanel you can edit configuration of email, FTP, databases, as well as other features.
+
+cPanel login details are provided above.
+
+You can also add addon domains using this manual.
+
+3. Use FTP to Upload Your Site
+We recommend using FTP to upload your website. We support all of the popular FTP clients and protocols. If you prefer to upload your website using just your web browser, you'll find File Manager in your cPanel.
+
+It is strongly recommended to use SFTP connection for better security. However, if custom ports are blocked in your network you can also use plain FTP.
+
+
+ 
+SFTP Details
+Server Address	server232.web-hosting.com
+Username	clarckix
+Password	fBv8DVFHJxJWM
+FTP Mode	Passive
+SFTP Port	21098
+ 
+FTP Details
+Server Address	server232.web-hosting.com
+Username	clarckix
+Password	fBv8DVFHJxJWM
+FTP Mode	Passive
+FTP Port	21
